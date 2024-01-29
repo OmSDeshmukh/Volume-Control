@@ -1,4 +1,4 @@
-# Hand Gesture Recognition for Volume Control
+# Hand Gesture Recognition With Volume Control
 
 This project implements hand landmark detection, tracking, determining left or right hand, angle detection between fingers, and device (Mac) volume control through hand gestures. The implementation is based on the `mediapipe` and `opencv` libraries, along with other necessary Python libraries.
 

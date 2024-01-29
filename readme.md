@@ -40,7 +40,7 @@ jupyter notebook main.ipynb
 
 - [MediaPipe Documentation](https://mediapipe.dev/)
 - [OpenCV Documentation](https://docs.opencv.org/)
-- [Nicholas Renotte YouTube Channel](https://www.youtube.com/c/nicholasrenotte) - Link to the YouTube channel of Person X for further reference.
+- [Nicholas Renotte YouTube Channel](https://www.youtube.com/c/nicholasrenotte) - Link to the YouTube channel for further reference.
 
 
 ## Aknowledgements

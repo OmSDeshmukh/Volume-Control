@@ -10,18 +10,7 @@ This project implements hand landmark detection, tracking, determining left or r
 - Finger Angle Detection: Measures the angle between fingers.
 - Volume Control: Adjusts the device volume using hand gestures.
 
-## Requirements
-
-Ensure you have the required dependencies installed. You can install them using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-# Aknowledgements
-Special thanks to Nicholas whose YouTube video provided valuable insights and guidance in creating this project.
-
-# Usage
+## Usage
 1. Clone the repo
 
 ```bash
@@ -29,23 +18,34 @@ git clone https://github.com/yourusername/your-project.git
 cd your-project
 ```
 
-2.Install the dependencies
+2. Create a Python Environment and activate it
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+3.Install the dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3.Run the jupyter notebook
+4.Run the jupyter notebook
 
 ```bash
 jupyter notebook main.ipynb
 ```
 
-# References
+## References
 
-Mediapipe Documentation
-OpenCV Documentation
-Nicholas' YouTube Channed
+- [MediaPipe Documentation](https://mediapipe.dev/)
+- [OpenCV Documentation](https://docs.opencv.org/)
+- [Nicholas Renotte YouTube Channel](https://www.youtube.com/c/nicholasrenotte) - Link to the YouTube channel of Person X for further reference.
 
-# License
+
+## Aknowledgements
+Special thanks to Nicholas Renotte whose YouTube video provided valuable insights and guidance in creating this project.
+
+
+## License
 This project is licensed under the MIT License.

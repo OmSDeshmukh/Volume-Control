@@ -14,8 +14,8 @@ This project implements hand landmark detection, tracking, determining left or r
 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/your-project.git
-cd your-project
+git clone https://github.com/OmSDeshmukh/VolumeUpdation
+cd VolumeUpdation
 ```
 
 2. Create a Python Environment and activate it
